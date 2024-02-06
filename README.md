@@ -16,4 +16,6 @@ i cover the arthmatic operation of pandas dataFrame.
 <br>
 than i cover the insertion and deletion via DataFrame.
 <br>
+than i cover the READ csv and their functions.
+<br>
 
