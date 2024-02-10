@@ -39,4 +39,8 @@ Day(9)
 i cover the csv advance function
 <br>
 Might be i'll not upload the work for two days because of voting/Eection and internet will be off in the whole country.
-
+<br>
+Day(10)
+<br>
+cover the dropna and fillna and their function with practise
+<br>
