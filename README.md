@@ -42,5 +42,9 @@ Might be i'll not upload the work for two days because of voting/Eection and int
 <br>
 Day(10)
 <br>
-cover the dropna and fillna and their function with practise
+cover the dropna and fillna and their function with practise.
+<br>
+Day(11)
+<br>
+cover the replace and their function with practise.
 <br>
