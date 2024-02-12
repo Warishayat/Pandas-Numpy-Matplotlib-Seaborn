@@ -48,3 +48,6 @@ Day(11)
 <br>
 cover the replace and their function with practise.
 <br>
+Day(12)
+<br>
+cover the interpolate and their function with practise.
