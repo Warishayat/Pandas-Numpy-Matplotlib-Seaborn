@@ -51,3 +51,7 @@ cover the replace and their function with practise.
 Day(12)
 <br>
 cover the interpolate and their function with practise.
+<br>
+Day(13)
+<br>
+cover merge the dataframe with practise.
