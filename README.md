@@ -55,3 +55,8 @@ cover the interpolate and their function with practise.
 Day(13)
 <br>
 cover merge the dataframe with practise.
+<br>
+Day(14)
+<br>
+cover groupb function with practise.
+
