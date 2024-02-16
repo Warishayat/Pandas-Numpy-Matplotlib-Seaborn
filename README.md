@@ -63,3 +63,7 @@ cover groupb function with practise.
 Day(15)
 <br>
 cover Reshape(melt/pivot) function with practise.
+<br>
+Day(16)
+<br>
+Revise and practise all the topic till yesterday.
