@@ -67,3 +67,8 @@ cover Reshape(melt/pivot) function with practise.
 Day(16)
 <br>
 Revise and practise all the topic till yesterday.
+<br>
+Day(17)
+<br>
+Practise a Project and clean all the mess from the dataset.
+
