@@ -71,4 +71,7 @@ Revise and practise all the topic till yesterday.
 Day(17)
 <br>
 Practise a Project and clean all the mess from the dataset.
-
+<br>
+Day(18)
+<br>
+Practise another Project and clean all the mess from the dataset.
