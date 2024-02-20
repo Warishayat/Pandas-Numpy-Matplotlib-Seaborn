@@ -82,5 +82,5 @@ Practise another Project and clean all the mess from the dataset.
 <br>
 Day(20)
 <br>
-Start the Numpy with basic concept and cover some basic concept.
+Start the Numpy with basic concept and cover some basic topic.
 
