@@ -87,4 +87,7 @@ Start the Numpy with basic concept and cover some basic topic.
 Day(21)
 <br>
 Numpy day2 with basic concept and cover some basic topic/with some good practise.
-
+<br>
+Day(22)
+<br>
+Numpy day3 with basic concept and cover some basic topic/with some good practise.
