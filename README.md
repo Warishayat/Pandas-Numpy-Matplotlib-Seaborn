@@ -91,3 +91,9 @@ Numpy day2 with basic concept and cover some basic topic/with some good practise
 Day(22)
 <br>
 Numpy day3 with basic concept and cover some basic topic/with some good practise.
+<br>
+Day(23)
+<br>
+Numpy day4 with basic concept and cover some basic topic/with some good practise.
+<br> 
+practise and revise all the concept of NumPy once again.
