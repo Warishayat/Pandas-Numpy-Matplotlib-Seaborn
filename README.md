@@ -104,3 +104,7 @@ practise and revise all the concept of NumPy once again.
 Day(25)
 <br>
 practise and revise all the concept of NumPy once again.
+<br>
+explore the area of MATPLOTLIB and  discoverd the Bar,Scatter,pie,and histogram.
+<br>
+practise of matplotlib and solve all their hidden functions.
