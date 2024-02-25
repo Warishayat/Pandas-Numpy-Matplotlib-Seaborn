@@ -101,3 +101,6 @@ practise and revise all the concept of NumPy once again.
 Day(24)
 <br>
 practise and revise all the concept of NumPy once again.
+Day(25)
+<br>
+practise and revise all the concept of NumPy once again.
