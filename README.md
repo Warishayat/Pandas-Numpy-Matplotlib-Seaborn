@@ -108,3 +108,8 @@ practise and revise all the concept of NumPy once again.
 explore the area of MATPLOTLIB and  discoverd the Bar,Scatter,pie,and histogram.
 <br>
 practise of matplotlib and solve all their hidden functions.
+<br> 
+some practise of linear regression and train model for car price pridection.
+<br>
+practise of matplotlib and solve all stem and Box plot.
+<br> 
