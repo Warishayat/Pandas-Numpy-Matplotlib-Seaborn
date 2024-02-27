@@ -105,11 +105,14 @@ Day(25)
 <br>
 practise and revise all the concept of NumPy once again.
 <br>
+Day(26)
+<br>
 explore the area of MATPLOTLIB and  discoverd the Bar,Scatter,pie,and histogram.
 <br>
 practise of matplotlib and solve all their hidden functions.
 <br> 
-some practise of linear regression and train model for car price pridection.
-<br>
 practise of matplotlib and solve all stem and Box plot.
 <br> 
+Day(27)
+<br>
+explore the Stack plot and step plot and solve some function of that plots.
