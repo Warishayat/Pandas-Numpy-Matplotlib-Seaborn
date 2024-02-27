@@ -116,3 +116,5 @@ practise of matplotlib and solve all stem and Box plot.
 Day(27)
 <br>
 explore the Stack plot and step plot and solve some function of that plots.
+<br>
+Also solve the pandas cncept OneHotEncoding and LabelEncoding and train a model on the data.
