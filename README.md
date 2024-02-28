@@ -118,3 +118,8 @@ Day(27)
 explore the Stack plot and step plot and solve some function of that plots.
 <br>
 Also solve the pandas cncept OneHotEncoding and LabelEncoding and train a model on the data.
+<br>
+Day(29)
+<br>
+explore the fill-plt and solve a pracrtise plot.
+<br>
