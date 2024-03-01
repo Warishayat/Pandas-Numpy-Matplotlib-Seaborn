@@ -1,4 +1,4 @@
-# Pandas-NumPy-Matplotlib
+# Pandas-NumPy-Matplotlib-Seaborn
 <br>
 I will add all my pandas related work and daily progress to this repo. And I will share all tricks here to help all those beginners who want to learn new things.
 <br>
@@ -123,3 +123,8 @@ Day(29)
 <br>
 explore the fill-plt and solve a pracrtise plot.
 <br>
+Day(30)
+<br>
+explore the scatter plot,lineplot,facetplot,axis and relplot with the Seaborn.
+<br>
+
