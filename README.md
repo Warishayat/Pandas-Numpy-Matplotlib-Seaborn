@@ -127,4 +127,7 @@ Day(30)
 <br>
 explore the scatter plot,lineplot,facetplot,axis and relplot with the Seaborn.
 <br>
-
+Day(31)
+<br>
+explore the part of distribution plot like hist pot,kde plot and Rugplot in seaborn and solve some practise question.
+<br>
