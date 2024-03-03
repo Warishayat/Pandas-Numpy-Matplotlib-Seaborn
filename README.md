@@ -131,3 +131,7 @@ Day(31)
 <br>
 explore the part of distribution plot like hist pot,kde plot and Rugplot in seaborn and solve some practise question.
 <br>
+Day(32)
+<br>
+explore the part of Matrix plot like heatmap pot and clustterplot in seaborn.
+<br>
