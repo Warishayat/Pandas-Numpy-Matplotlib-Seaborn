@@ -135,3 +135,4 @@ Day(32)
 <br>
 explore the part of Matrix plot like heatmap pot and clustterplot in seaborn.
 <br>
+Today Numpy pandas matplotlin and seaborn has been complete now i will move forward and start real work project by using all these libraries.
